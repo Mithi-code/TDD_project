@@ -1,4 +1,4 @@
-require './solver'
+require './solver'git
 
 describe Solver do
   context 'When testing the Solver class' do
