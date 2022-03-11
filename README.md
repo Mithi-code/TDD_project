@@ -37,6 +37,12 @@ Run using terminal
 
 - GitHub: [@githubhandle](https://github.com/Mithi-code)
 
+👤 **Kalolo Chola Lemba**
+- GitHub: [@KayLemba](https://github.com/KayLemba)
+- Twitter: [@King-Kaylo1](https://twitter.com/King_Kaylo1) 
+- LinkedIn: [@kalolo-lemba](https://www.linkedin.com/in/https://www.linkedin.com/in/kalolo-lemba)
+
+
 
 ## 🤝 Contributing
 
