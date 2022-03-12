@@ -36,6 +36,8 @@ Run using terminal
 👤 **Mithlesh**
 
 - GitHub: [@githubhandle](https://github.com/Mithi-code)
+- Twitter: [@twitterhandle](https://twitter.com/LazyMithlesh)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/mithlesh-kumar-564a97221/)
 
 👤 **Kalolo Chola Lemba**
 - GitHub: [@KayLemba](https://github.com/KayLemba)
